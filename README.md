@@ -1,4 +1,4 @@
-# Joplin Plugin Enhancement
+# Joplin Plugin Enhancement cm6
 
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://paypal.me/Youchee)
 
