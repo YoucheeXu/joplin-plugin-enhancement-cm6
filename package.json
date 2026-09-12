@@ -56,5 +56,10 @@
     "showdown": "^2.1.0",
     "tippy.js": "^6.3.7",
     "ts-debounce": "^4.0.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "cytoscape": "3.23.0"
+    }
   }
 }
